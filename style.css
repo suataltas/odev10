@@ -1,0 +1,47 @@
+/* logo ortalandı. */
+.logo {
+  display: block; 
+  margin:7vh auto 3vh;
+}
+/* nav kısmın ayarlandığı yer */
+.nav {
+  background-color: rgb(238, 238, 238);
+  width: 90vw;
+  margin: 0 auto 1vh;
+  text-align: center;
+}
+/* Sectionların ayarlandığı kısım */
+.section {
+  width: 90vw;
+  margin: 0 auto 1vh;
+  display: flex;
+  justify-content: space-between;    
+}
+/* Soldaki kutucuğun ayarlandığı kısım */
+.specialSearch {
+  width:44%;
+  background-color: #7EE5DA;
+  text-align: center;
+  height:fit-content;
+  padding: 1.75% 0.5%;
+}
+/* Ortadaki kutucuğun ayarlandığı kısım */
+.help {
+  background-color: #70CCC2;
+  height: fit-content;
+  padding: 1%;
+}
+/* Sağdaki kutucuğun ayarlandığı kısım */
+.mail {
+  width:44%;
+  background-color: #62B3AA;
+  text-align: center;
+  height: fit-content;
+  padding-bottom: 1.5%;
+  
+}
+/* p birimin marginini sıfırlandığı kısım */
+.mr-bot0 {
+  margin:0vh;
+}
+
